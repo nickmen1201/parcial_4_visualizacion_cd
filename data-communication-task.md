@@ -40,7 +40,7 @@ A medida que comienzas a trabajar en tu historia ten presente siempre los princi
 - ¿Tiene suficiente documentación: fuentes, autores, fechas?
 - ¿Aplicas la técnica de data-ink ratio?
 
-Relee el documento *Principios_para_la_Comunicacion_Visual_de_la_Informacion_Cuantitativa.pdf* que suministramos para recordar los principios que debes siempre tener en cuenta.
+Relee el documento *Principios_para_la_Comunicacion_Visual_de_la_Informacion_Cuantitativa.md* que suministramos para recordar los principios que debes siempre tener en cuenta.
 
 ## Entrega
 
